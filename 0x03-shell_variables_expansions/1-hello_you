@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "User ifo for userid:$hello user"
+echo "User info for userid:$hello user"
