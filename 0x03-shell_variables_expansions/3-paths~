@@ -1,2 +1,2 @@
 #!/bin/bash
-echo dirs: $dir, files: $file
+dirs=$(find "$root" -mindepth 1 -maxdepth 1 -type d | wc -l)
